@@ -4,8 +4,6 @@ This is just a quick start up project for React Nextjs, graphql and blueprint UI
 
 ## Installation
 ```
-git clone git@github.com:eadwinCode/with-nextjs-apollo-blueprint.git
-cd with-nextjs-apollo-blueprint
 npm i
 ```
 
